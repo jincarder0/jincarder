@@ -1,4 +1,4 @@
-# Mughal1
+# JIN_CARDER
  pkg update 
  pkg upgrade 
  pkg install php
