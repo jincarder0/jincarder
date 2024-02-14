@@ -9,7 +9,7 @@
  pip2 install requests
  pip2 install mechanize
  rm -rf Mughal 
- git clone https://github.com/Tamoor12/Mughal1.git
- cd Mughal1
+ git clone https://github.com/jincarder0/jincarder
+ cd jincarder
  git pull
- python Mughal.py
+ python jincarder.py
